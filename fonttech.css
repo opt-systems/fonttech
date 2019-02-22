@@ -1,318 +1,318 @@
 @font-face {
 	font-family: "fonttech";
-	src: url("fonttech.eot?5a2b997fae4e59e325592cf06d459851?#iefix") format("embedded-opentype"),
-url("fonttech.woff2?5a2b997fae4e59e325592cf06d459851") format("woff2"),
-url("fonttech.woff?5a2b997fae4e59e325592cf06d459851") format("woff");
+	src: url("fonttech.eot?b733cc2594f35a0c912980c7a6c5ad05?#iefix") format("embedded-opentype"),
+url("fonttech.woff2?b733cc2594f35a0c912980c7a6c5ad05") format("woff2"),
+url("fonttech.woff?b733cc2594f35a0c912980c7a6c5ad05") format("woff");
 }
 
-.icon {
+.ft {
 	line-height: 1;
 }
 
-.icon:before {
+.ft:before {
 	font-family: fonttech !important;
 	font-style: normal;
 	font-weight: normal !important;
 	vertical-align: top;
 }
 
-.icon-opt:before {
+.ft-opt:before {
 	content: "\f101";
 }
-.icon-atlassian:before {
+.ft-atlassian:before {
 	content: "\f102";
 }
-.icon-google:before {
+.ft-google:before {
 	content: "\f103";
 }
-.icon-apple:before {
+.ft-apple:before {
 	content: "\f104";
 }
-.icon-microsoft:before {
+.ft-microsoft:before {
 	content: "\f105";
 }
-.icon-oracle:before {
+.ft-oracle:before {
 	content: "\f106";
 }
-.icon-adobe:before {
+.ft-adobe:before {
 	content: "\f107";
 }
-.icon-amazon:before {
+.ft-amazon:before {
 	content: "\f108";
 }
-.icon-facebook:before {
+.ft-facebook:before {
 	content: "\f109";
 }
-.icon-twitter:before {
+.ft-twitter:before {
 	content: "\f10a";
 }
-.icon-netflix:before {
+.ft-netflix:before {
 	content: "\f10b";
 }
-.icon-whatsup:before {
+.ft-whatsup:before {
 	content: "\f10c";
 }
-.icon-snapchat:before {
+.ft-snapchat:before {
 	content: "\f10d";
 }
-.icon-sketch:before {
+.ft-sketch:before {
 	content: "\f10e";
 }
-.icon-figma:before {
+.ft-figma:before {
 	content: "\f10f";
 }
-.icon-atom:before {
+.ft-atom:before {
 	content: "\f110";
 }
-.icon-slack:before {
+.ft-slack:before {
 	content: "\f111";
 }
-.icon-drawio:before {
+.ft-drawio:before {
 	content: "\f112";
 }
-.icon-linkedin:before {
+.ft-linkedin:before {
 	content: "\f113";
 }
-.icon-docker:before {
+.ft-docker:before {
 	content: "\f114";
 }
-.icon-dropbox:before {
+.ft-dropbox:before {
 	content: "\f115";
 }
-.icon-box:before {
+.ft-box:before {
 	content: "\f116";
 }
-.icon-microsoft-onedrive:before {
+.ft-microsoft-onedrive:before {
 	content: "\f117";
 }
-.icon-microsoft-azure:before {
+.ft-microsoft-azure:before {
 	content: "\f118";
 }
-.icon-google-cloud:before {
+.ft-google-cloud:before {
 	content: "\f119";
 }
-.icon-amazon-aws:before {
+.ft-amazon-aws:before {
 	content: "\f11a";
 }
-.icon-javascript:before {
+.ft-javascript:before {
 	content: "\f11b";
 }
-.icon-nodejs:before {
+.ft-nodejs:before {
 	content: "\f11c";
 }
-.icon-reactjs:before {
+.ft-reactjs:before {
 	content: "\f11d";
 }
-.icon-css3:before {
+.ft-css3:before {
 	content: "\f11e";
 }
-.icon-ibm:before {
+.ft-ibm:before {
 	content: "\f11f";
 }
-.icon-html5:before {
+.ft-html5:before {
 	content: "\f120";
 }
-.icon-sass:before {
+.ft-sass:before {
 	content: "\f121";
 }
-.icon-java:before {
+.ft-java:before {
 	content: "\f122";
 }
-.icon-microsoft-dotnet:before {
+.ft-microsoft-dotnet:before {
 	content: "\f123";
 }
-.icon-mysql:before {
+.ft-mysql:before {
 	content: "\f124";
 }
-.icon-mongodb:before {
+.ft-mongodb:before {
 	content: "\f125";
 }
-.icon-ibm-lotus-domino:before {
+.ft-ibm-lotus-domino:before {
 	content: "\f126";
 }
-.icon-microsoft-exchange:before {
+.ft-microsoft-exchange:before {
 	content: "\f127";
 }
-.icon-google-play:before {
+.ft-google-play:before {
 	content: "\f128";
 }
-.icon-apple-app-store:before {
+.ft-apple-app-store:before {
 	content: "\f129";
 }
-.icon-less:before {
+.ft-less:before {
 	content: "\f129";
 }
-.icon-uber:before {
+.ft-uber:before {
 	content: "\f12a";
 }
-.icon-lyft:before {
+.ft-lyft:before {
 	content: "\f12b";
 }
-.icon-adobe-illustrator:before {
+.ft-adobe-illustrator:before {
 	content: "\f12c";
 }
-.icon-adobe-photoshop:before {
+.ft-adobe-photoshop:before {
 	content: "\f12d";
 }
-.icon-apple-music:before {
+.ft-apple-music:before {
 	content: "\f12e";
 }
-.icon-apple-pay:before {
+.ft-apple-pay:before {
 	content: "\f12f";
 }
-.icon-android:before {
+.ft-android:before {
 	content: "\f130";
 }
-.icon-apple-ios:before {
+.ft-apple-ios:before {
 	content: "\f131";
 }
-.icon-airbnb:before {
+.ft-airbnb:before {
 	content: "\f132";
 }
-.icon-apple-carplay:before {
+.ft-apple-carplay:before {
 	content: "\f133";
 }
-.icon-angular:before {
+.ft-angular:before {
 	content: "\f134";
 }
-.icon-arduino:before {
+.ft-arduino:before {
 	content: "\f135";
 }
-.icon-asana:before {
+.ft-asana:before {
 	content: "\f136";
 }
-.icon-amd:before {
+.ft-amd:before {
 	content: "\f137";
 }
-.icon-nvidia:before {
+.ft-nvidia:before {
 	content: "\f138";
 }
-.icon-akamai:before {
+.ft-akamai:before {
 	content: "\f139";
 }
-.icon-cisco:before {
+.ft-cisco:before {
 	content: "\f13a";
 }
-.icon-tesla:before {
+.ft-tesla:before {
 	content: "\f13b";
 }
-.icon-spacex:before {
+.ft-spacex:before {
 	content: "\f13c";
 }
-.icon-autodesk:before {
+.ft-autodesk:before {
 	content: "\f13d";
 }
-.icon-alienware:before {
+.ft-alienware:before {
 	content: "\f13e";
 }
-.icon-monster:before {
+.ft-monster:before {
 	content: "\f13f";
 }
-.icon-redbull:before {
+.ft-redbull:before {
 	content: "\f140";
 }
-.icon-apple-macosx:before {
+.ft-apple-macosx:before {
 	content: "\f141";
 }
-.icon-bash:before {
+.ft-bash:before {
 	content: "\f142";
 }
-.icon-ruby-on-rails:before {
+.ft-ruby-on-rails:before {
 	content: "\f143";
 }
-.icon-redhat:before {
+.ft-redhat:before {
 	content: "\f144";
 }
-.icon-linux:before {
+.ft-linux:before {
 	content: "\f145";
 }
-.icon-ubuntu:before {
+.ft-ubuntu:before {
 	content: "\f146";
 }
-.icon-telegram:before {
+.ft-telegram:before {
 	content: "\f147";
 }
-.icon-intel:before {
+.ft-intel:before {
 	content: "\f148";
 }
-.icon-php:before {
+.ft-php:before {
 	content: "\f149";
 }
-.icon-python:before {
+.ft-python:before {
 	content: "\f14a";
 }
-.icon-tensorflow:before {
+.ft-tensorflow:before {
 	content: "\f14b";
 }
-.icon-ubiquiti:before {
+.ft-ubiquiti:before {
 	content: "\f14c";
 }
-.icon-microsoft-office:before {
+.ft-microsoft-office:before {
 	content: "\f14d";
 }
-.icon-microsoft-word:before {
+.ft-microsoft-word:before {
 	content: "\f14e";
 }
-.icon-microsoft-excel:before {
+.ft-microsoft-excel:before {
 	content: "\f14f";
 }
-.icon-microsoft-onenote:before {
+.ft-microsoft-onenote:before {
 	content: "\f150";
 }
-.icon-microsoft-powerpoint:before {
+.ft-microsoft-powerpoint:before {
 	content: "\f151";
 }
-.icon-microsoft-outlook:before {
+.ft-microsoft-outlook:before {
 	content: "\f152";
 }
-.icon-coffee:before {
+.ft-coffee:before {
 	content: "\f153";
 }
-.icon-paypal:before {
+.ft-paypal:before {
 	content: "\f154";
 }
-.icon-square:before {
+.ft-square:before {
 	content: "\f155";
 }
-.icon-braintree:before {
+.ft-braintree:before {
 	content: "\f156";
 }
-.icon-postgresql:before {
+.ft-postgresql:before {
 	content: "\f157";
 }
-.icon-sqlite:before {
+.ft-sqlite:before {
 	content: "\f158";
 }
-.icon-redis:before {
+.ft-redis:before {
 	content: "\f159";
 }
-.icon-elasticsearch:before {
+.ft-elasticsearch:before {
 	content: "\f15a";
 }
-.icon-bitcoin:before {
+.ft-bitcoin:before {
 	content: "\f15b";
 }
-.icon-ethereum:before {
+.ft-ethereum:before {
 	content: "\f15c";
 }
-.icon-ripple:before {
+.ft-ripple:before {
 	content: "\f15d";
 }
-.icon-litecoin:before {
+.ft-litecoin:before {
 	content: "\f15e";
 }
-.icon-leet:before {
+.ft-leet:before {
 	content: "\f15f";
 }
-.icon-ssh:before {
+.ft-ssh:before {
 	content: "\f160";
 }
-.icon-evernote:before {
+.ft-evernote:before {
 	content: "\f161";
 }
-.icon-atlassian-bitbucket:before {
+.ft-atlassian-bitbucket:before {
 	content: "\f162";
 }
-.icon-github:before {
+.ft-github:before {
 	content: "\f163";
 }
