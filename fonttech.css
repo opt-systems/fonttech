@@ -1,0 +1,318 @@
+@font-face {
+	font-family: "fonttech";
+	src: url("fonttech.eot?5a2b997fae4e59e325592cf06d459851?#iefix") format("embedded-opentype"),
+url("fonttech.woff2?5a2b997fae4e59e325592cf06d459851") format("woff2"),
+url("fonttech.woff?5a2b997fae4e59e325592cf06d459851") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: fonttech !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-opt:before {
+	content: "\f101";
+}
+.icon-atlassian:before {
+	content: "\f102";
+}
+.icon-google:before {
+	content: "\f103";
+}
+.icon-apple:before {
+	content: "\f104";
+}
+.icon-microsoft:before {
+	content: "\f105";
+}
+.icon-oracle:before {
+	content: "\f106";
+}
+.icon-adobe:before {
+	content: "\f107";
+}
+.icon-amazon:before {
+	content: "\f108";
+}
+.icon-facebook:before {
+	content: "\f109";
+}
+.icon-twitter:before {
+	content: "\f10a";
+}
+.icon-netflix:before {
+	content: "\f10b";
+}
+.icon-whatsup:before {
+	content: "\f10c";
+}
+.icon-snapchat:before {
+	content: "\f10d";
+}
+.icon-sketch:before {
+	content: "\f10e";
+}
+.icon-figma:before {
+	content: "\f10f";
+}
+.icon-atom:before {
+	content: "\f110";
+}
+.icon-slack:before {
+	content: "\f111";
+}
+.icon-drawio:before {
+	content: "\f112";
+}
+.icon-linkedin:before {
+	content: "\f113";
+}
+.icon-docker:before {
+	content: "\f114";
+}
+.icon-dropbox:before {
+	content: "\f115";
+}
+.icon-box:before {
+	content: "\f116";
+}
+.icon-microsoft-onedrive:before {
+	content: "\f117";
+}
+.icon-microsoft-azure:before {
+	content: "\f118";
+}
+.icon-google-cloud:before {
+	content: "\f119";
+}
+.icon-amazon-aws:before {
+	content: "\f11a";
+}
+.icon-javascript:before {
+	content: "\f11b";
+}
+.icon-nodejs:before {
+	content: "\f11c";
+}
+.icon-reactjs:before {
+	content: "\f11d";
+}
+.icon-css3:before {
+	content: "\f11e";
+}
+.icon-ibm:before {
+	content: "\f11f";
+}
+.icon-html5:before {
+	content: "\f120";
+}
+.icon-sass:before {
+	content: "\f121";
+}
+.icon-java:before {
+	content: "\f122";
+}
+.icon-microsoft-dotnet:before {
+	content: "\f123";
+}
+.icon-mysql:before {
+	content: "\f124";
+}
+.icon-mongodb:before {
+	content: "\f125";
+}
+.icon-ibm-lotus-domino:before {
+	content: "\f126";
+}
+.icon-microsoft-exchange:before {
+	content: "\f127";
+}
+.icon-google-play:before {
+	content: "\f128";
+}
+.icon-apple-app-store:before {
+	content: "\f129";
+}
+.icon-less:before {
+	content: "\f129";
+}
+.icon-uber:before {
+	content: "\f12a";
+}
+.icon-lyft:before {
+	content: "\f12b";
+}
+.icon-adobe-illustrator:before {
+	content: "\f12c";
+}
+.icon-adobe-photoshop:before {
+	content: "\f12d";
+}
+.icon-apple-music:before {
+	content: "\f12e";
+}
+.icon-apple-pay:before {
+	content: "\f12f";
+}
+.icon-android:before {
+	content: "\f130";
+}
+.icon-apple-ios:before {
+	content: "\f131";
+}
+.icon-airbnb:before {
+	content: "\f132";
+}
+.icon-apple-carplay:before {
+	content: "\f133";
+}
+.icon-angular:before {
+	content: "\f134";
+}
+.icon-arduino:before {
+	content: "\f135";
+}
+.icon-asana:before {
+	content: "\f136";
+}
+.icon-amd:before {
+	content: "\f137";
+}
+.icon-nvidia:before {
+	content: "\f138";
+}
+.icon-akamai:before {
+	content: "\f139";
+}
+.icon-cisco:before {
+	content: "\f13a";
+}
+.icon-tesla:before {
+	content: "\f13b";
+}
+.icon-spacex:before {
+	content: "\f13c";
+}
+.icon-autodesk:before {
+	content: "\f13d";
+}
+.icon-alienware:before {
+	content: "\f13e";
+}
+.icon-monster:before {
+	content: "\f13f";
+}
+.icon-redbull:before {
+	content: "\f140";
+}
+.icon-apple-macosx:before {
+	content: "\f141";
+}
+.icon-bash:before {
+	content: "\f142";
+}
+.icon-ruby-on-rails:before {
+	content: "\f143";
+}
+.icon-redhat:before {
+	content: "\f144";
+}
+.icon-linux:before {
+	content: "\f145";
+}
+.icon-ubuntu:before {
+	content: "\f146";
+}
+.icon-telegram:before {
+	content: "\f147";
+}
+.icon-intel:before {
+	content: "\f148";
+}
+.icon-php:before {
+	content: "\f149";
+}
+.icon-python:before {
+	content: "\f14a";
+}
+.icon-tensorflow:before {
+	content: "\f14b";
+}
+.icon-ubiquiti:before {
+	content: "\f14c";
+}
+.icon-microsoft-office:before {
+	content: "\f14d";
+}
+.icon-microsoft-word:before {
+	content: "\f14e";
+}
+.icon-microsoft-excel:before {
+	content: "\f14f";
+}
+.icon-microsoft-onenote:before {
+	content: "\f150";
+}
+.icon-microsoft-powerpoint:before {
+	content: "\f151";
+}
+.icon-microsoft-outlook:before {
+	content: "\f152";
+}
+.icon-coffee:before {
+	content: "\f153";
+}
+.icon-paypal:before {
+	content: "\f154";
+}
+.icon-square:before {
+	content: "\f155";
+}
+.icon-braintree:before {
+	content: "\f156";
+}
+.icon-postgresql:before {
+	content: "\f157";
+}
+.icon-sqlite:before {
+	content: "\f158";
+}
+.icon-redis:before {
+	content: "\f159";
+}
+.icon-elasticsearch:before {
+	content: "\f15a";
+}
+.icon-bitcoin:before {
+	content: "\f15b";
+}
+.icon-ethereum:before {
+	content: "\f15c";
+}
+.icon-ripple:before {
+	content: "\f15d";
+}
+.icon-litecoin:before {
+	content: "\f15e";
+}
+.icon-leet:before {
+	content: "\f15f";
+}
+.icon-ssh:before {
+	content: "\f160";
+}
+.icon-evernote:before {
+	content: "\f161";
+}
+.icon-atlassian-bitbucket:before {
+	content: "\f162";
+}
+.icon-github:before {
+	content: "\f163";
+}
