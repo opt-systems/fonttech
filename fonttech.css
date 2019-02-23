@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "fonttech";
-	src: url("fonttech.eot?b733cc2594f35a0c912980c7a6c5ad05?#iefix") format("embedded-opentype"),
-url("fonttech.woff2?b733cc2594f35a0c912980c7a6c5ad05") format("woff2"),
-url("fonttech.woff?b733cc2594f35a0c912980c7a6c5ad05") format("woff");
+	src: url("fonttech.eot?45949ca57d0df7e4d5db61fa4f82a0b2?#iefix") format("embedded-opentype"),
+url("fonttech.woff2?45949ca57d0df7e4d5db61fa4f82a0b2") format("woff2"),
+url("fonttech.woff?45949ca57d0df7e4d5db61fa4f82a0b2") format("woff");
 }
 
 .ft {
@@ -13,7 +13,7 @@ url("fonttech.woff?b733cc2594f35a0c912980c7a6c5ad05") format("woff");
 	font-family: fonttech !important;
 	font-style: normal;
 	font-weight: normal !important;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 .ft-opt:before {
