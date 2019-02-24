@@ -27,7 +27,7 @@
     "url": "https://github.com/opt-systems/fonttech"
   },
   "dependencies": {},
-  "version": "1.0.4.1",
+  "version": "1.4.0",
   "name": "fonttech",
   "style": "fonttech.css",
   "license": "STAR"
