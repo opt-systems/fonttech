@@ -10,9 +10,17 @@ https://opt.systems/FontTech
 
 1. CDN:
 ```
-<link rel="stylesheet" href="https://cdn.opt.si/fonttech/1.0.4/fonttech.css">
+<link rel="stylesheet" href="https://cdn.opt.si/fonttech/1.4.0/fonttech.css">
 ```
-2. GIT:
+2. NPM:
+```
+npm install fonttech --save
+```
+or
+```
+yarn add fonttech
+```
+3. GIT:
 ```
 git clone https://github.com/opt-systems/fonttech.git
 ```
