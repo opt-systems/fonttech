@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "fonttech";
-	src: url("fonttech.eot?45949ca57d0df7e4d5db61fa4f82a0b2?#iefix") format("embedded-opentype"),
-url("fonttech.woff2?45949ca57d0df7e4d5db61fa4f82a0b2") format("woff2"),
-url("fonttech.woff?45949ca57d0df7e4d5db61fa4f82a0b2") format("woff");
+	src: url("fonttech.eot?f35ce685b080f1d661419df98215b96d?#iefix") format("embedded-opentype"),
+url("fonttech.woff2?f35ce685b080f1d661419df98215b96d") format("woff2"),
+url("fonttech.woff?f35ce685b080f1d661419df98215b96d") format("woff");
 }
 
 .ft {
@@ -315,4 +315,64 @@ url("fonttech.woff?45949ca57d0df7e4d5db61fa4f82a0b2") format("woff");
 }
 .ft-github:before {
 	content: "\f163";
+}
+.ft-expressjs:before {
+	content: "\f164";
+}
+.ft-vuejs:before {
+	content: "\f165";
+}
+.ft-developer:before {
+	content: "\f166";
+}
+.ft-egghead:before {
+	content: "\f167";
+}
+.ft-socketio:before {
+	content: "\f168";
+}
+.ft-scrum:before {
+	content: "\f169";
+}
+.ft-flask:before {
+	content: "\f16a";
+}
+.ft-meteorjs:before {
+	content: "\f16b";
+}
+.ft-django:before {
+	content: "\f16c";
+}
+.ft-laravel:before {
+	content: "\f16d";
+}
+.ft-golang:before {
+	content: "\f16e";
+}
+.ft-youtube:before {
+	content: "\f16f";
+}
+.ft-instagram:before {
+	content: "\f170";
+}
+.ft-kanban:before {
+	content: "\f171";
+}
+.ft-twilio:before {
+	content: "\f172";
+}
+.ft-american-express:before {
+	content: "\f173";
+}
+.ft-mastercard:before {
+	content: "\f174";
+}
+.ft-visa:before {
+	content: "\f175";
+}
+.ft-samsung:before {
+	content: "\f176";
+}
+.ft-google-firebase:before {
+	content: "\f177";
 }

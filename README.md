@@ -10,7 +10,7 @@ https://opt.systems/FontTech
 
 1. CDN:
 ```
-<link rel="stylesheet" href="https://cdn.opt.si/fonttech/1.4.0/fonttech.css">
+<link rel="stylesheet" href="https://cdn.opt.si/fonttech/1.5.0/fonttech.css">
 ```
 2. NPM:
 ```
