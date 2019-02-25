@@ -1,6 +1,7 @@
 {
   "description": "FontTech - iconic font for developers",
-  "keywords": [
+ :$
+a "keywords": [
     "font",
     "webfont",
     "tech",
@@ -27,7 +28,7 @@
     "url": "https://github.com/opt-systems/fonttech"
   },
   "dependencies": {},
-  "version": "1.4.0",
+  "version": "1.5.0",
   "name": "fonttech",
   "style": "fonttech.css",
   "license": "STAR"
