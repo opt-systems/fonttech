@@ -4,7 +4,7 @@ FontTech - iconic font for developers
 
 # Cheatsheet & Docs
 
-https://opt.systems/FontTech
+https://opt.systems/products/fonttech
 
 # Installation
 
